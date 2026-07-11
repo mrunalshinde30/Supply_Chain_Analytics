@@ -41,6 +41,15 @@ Supply_Chain_Analytics/
 
 ---
 
+## Dataset
+
+The dataset used in this project is publicly available.
+
+Download it from:
+https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
+
+After downloading, place the CSV files inside the `Dataset` folder and run the notebook.
+
 ## 📊 Dashboard
 
 ![Dashboard](Images/dashboard.png)
