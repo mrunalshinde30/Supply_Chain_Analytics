@@ -12,6 +12,18 @@ Supply chain companies generate large amounts of data related to customers, prod
 
 ---
 
+## 🎯 Business Objectives
+
+This project aims to:
+
+- Analyze sales performance across different regions.
+- Identify high-performing product categories.
+- Evaluate shipping efficiency and delivery risks.
+- Understand customer purchasing behavior.
+- Build an interactive dashboard for business decision-making.
+
+---
+
 ## 🛠️ Tools & Technologies
 
 - Python
@@ -41,18 +53,48 @@ Supply_Chain_Analytics/
 
 ---
 
-## Dataset
+## 📂 Dataset
 
-The dataset used in this project is publicly available.
+**Source:** DataCo Smart Supply Chain Dataset (Kaggle)
 
-Download it from:
-https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
+**Format:** CSV
 
-After downloading, place the CSV files inside the `Dataset` folder and run the notebook.
+The dataset contains information on:
+
+- Customers
+- Products
+- Orders
+- Shipping
+- Sales
+- Delivery Status
+
+---
 
 ## 📊 Dashboard
 
+The interactive Power BI dashboard includes:
+
+- Sales Overview
+- Regional Sales Analysis
+- Product Category Performance
+- Customer Insights
+- Delivery Status Analysis
+- Late Delivery Risk
+- Interactive Filters and KPIs
+
 ![Dashboard](Images/dashboard.png)
+
+---
+
+## 🚀 Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- SQL Query Writing
+- Business Intelligence
+- Dashboard Development
+- Data Visualization
+- Business Analytics
 
 ---
 
@@ -74,6 +116,15 @@ After downloading, place the CSV files inside the `Dataset` folder and run the n
 3. SQL Business Queries
 4. Power BI Dashboard Creation
 5. Business Insights
+
+---
+
+## 📌 Project Results
+
+- Cleaned and prepared supply chain data using Python.
+- Performed SQL-based business analysis.
+- Built an interactive Power BI dashboard.
+- Identified key sales trends, delivery risks, and customer insights to support business decision-making.
 
 ---
 
